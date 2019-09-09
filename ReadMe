@@ -1,0 +1,11 @@
+KafkaCamelExample
+-----------------------------
+1.From the command Line move to KafkaCamelExample directory and build the Project.
+2.Build Command: mvn clean install
+3. Start the Zookeper ./bin/zookeeper-server-start.sh config/zookeeper.properties
+4.  Now start the Kafka server:
+   ./bin/kafka-server-start.sh config/server.properties.
+5.To check the application on localhost,Use http://localhost:8080/KafkaCamelExample/kafkaworks.mvc
+6.Now Type in the message, the message goes to the Kafka Topic and the Consumed Current Message is Displayed.
+refer to Screenshots for the results.
+7.Source: Java8
