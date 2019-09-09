@@ -161,12 +161,6 @@
         </dependency>
 
         <!-- end Test dependencies -->
-        <!--<dependency>
-            <groupId>javax.servlet</groupId>
-            <artifactId>com.springsource.javax.servlet.jsp.jstl</artifactId>
-            <version>1.2.0</version>
-            <scope>provided</scope>
-        </dependency>-->
 
         <dependency>
             <groupId>javax.servlet</groupId>
