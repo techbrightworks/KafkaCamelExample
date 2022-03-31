@@ -10,7 +10,7 @@
     <name>KafkaCamelExample</name>
 
     <properties>
-        <spring.version>4.3.3.RELEASE</spring.version>
+        <spring.version>5.3.18</spring.version>
         <camel.version>2.24.0</camel.version>
         <log.version>1.7.0</log.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
